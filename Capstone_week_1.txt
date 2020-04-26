@@ -1,2 +1,0 @@
-Then link to Jupyter Notebook is:
-https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5419ce92-6eb7-4c07-b1f0-5d3b08dc3510/view?access_token=484da5919e6ed090167d0e79fa9b87cab66d7676261db7a26c80727207822ed4
